@@ -1,5 +1,6 @@
 # Trajectory-Planning
-Implementing a basic trajectory planner using polynomial functions
+Implementing a basic trajectory planner using polynomial functions \
+If the jupyter notebook doesn't load, use the notebook viewer: **[nbviewer](https://nbviewer.jupyter.org/github/BonJovi1/Trajectory-Planning/blob/master/code.ipynb)** 
 
 The Question:
 
